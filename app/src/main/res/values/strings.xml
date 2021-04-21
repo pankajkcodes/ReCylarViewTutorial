@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReCylarViewTutorial</string>
+    <string name="food1">Food1</string>
+    <string name="todo">TODO</string>
+</resources>
